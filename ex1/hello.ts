@@ -2,7 +2,7 @@ export function soma(a: number, b: number) {
 	return a + b;
 }
 
-export function substrair(a: number, b: number) {
+export function subtrair(a: number, b: number) {
 	return a - b;
 }
 
