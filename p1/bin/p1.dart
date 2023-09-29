@@ -58,7 +58,7 @@ void main(List<String> arguments) {
 
   //Vencedor das rodadas
   print(
-      'Placar Final: CPU ${placarCPU} - ${placarUsuario} Usuário, Empates: ${empates}');
+      'Placar Final: CPU $placarCPU - $placarUsuario Usuário, Empates: $empates');
 
   if (placarCPU > placarUsuario) {
     print('Vitória da CPU!');
