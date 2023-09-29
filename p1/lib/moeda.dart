@@ -18,7 +18,7 @@ int moeda(int score) {
     print('\nA moeda lhe deu azar! pontuação cortada pela metade!');
     result = result ~/ 2;
   }
-  print('Nova pontuação: ${result}');
+  print('Nova pontuação: $result');
   separator();
 
   return result;
